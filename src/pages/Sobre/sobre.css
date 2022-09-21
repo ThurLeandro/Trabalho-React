@@ -1,0 +1,52 @@
+.fss{
+    display: flex;
+    height: 40px;
+    align-items: flex-end;
+    justify-content: center;
+    position: relative;
+    top: 196px;
+    background-color: black;
+    color: white;
+}
+.p4{
+    text-align: center;
+}
+.box{
+    bottom: 22px;
+    left: 32px;
+    position: relative;
+    border: 2px solid black;
+    width: 150px;
+}
+.ps{
+    bottom: 22px;
+    left: 32px;
+}
+.box2{
+    position: relative;
+    border: 2px solid black;
+    width: 150px;
+    bottom: 22px;
+    left: 33px;
+}
+.box3{
+    position: relative;
+    border: 2px solid black;
+    width: 150px;
+    height: 100px;
+}
+.but{
+    position: relative;
+    background-color: #4e4e4e;
+    left: 5px;
+    bottom: 6px;
+    border-radius: 5px;
+    width: 55px;
+    height: 20px;
+}
+.princ{
+    position: relative;
+    bottom: 250px;
+    left: 350px;
+    width: 1100px;
+}

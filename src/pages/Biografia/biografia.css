@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    padding-bottom: 25px;
+    font-size: 55px;
+}
+.fsb{
+        display: flex;
+        height: 40px;
+        align-items: flex-end;
+        justify-content: center;
+        position: relative;
+        top: 14px;
+        background-color: black;
+        color: white;
+}
+.para{
+    font-size: 30px;
+    margin: 20px;
+}
+h4{
+    text-align: center;
+    margin: 10px;
+    font-size: 35px;
+}
+.ftb{
+    position: relative;
+    left: 670px;
+    width: 550px;
+    border-radius: 15px;
+}
+.pb{
+    position: relative;
+    left: 670px;
+    width: 550px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 20px;
+}
